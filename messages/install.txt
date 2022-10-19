@@ -1,0 +1,11 @@
+
+AUTHOR: @draganmilenkovic
+useless elements color theme-wise (i.e. nothing related to the color scheme),
+which include the basic elements for creating a package, default icons etc. were
+BASED ON: Material Theme by Mattia Astorino
+
+********************************************************************************
+
+To install, open your Preferences > Settings - User and replace with the following line
+
+"theme": "VolatileBlackPRO.sublime-theme",
