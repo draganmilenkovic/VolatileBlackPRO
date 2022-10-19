@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/draganmilenkovic/VolatileBlackPRO">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="164" height="186">
   </a>
 
   <h3 align="center">Volatile Black PRO</h3>
